@@ -1,8 +1,0 @@
-[gd_scene load_steps=2 format=3 uid="uid://dfafdl3b0ov1k"]
-
-[ext_resource type="Script" path="res://test_scene.gd" id="1_fpq17"]
-
-[node name="TestScene" type="Node2D"]
-script = ExtResource("1_fpq17")
-
-[node name="thing" type="Node2D" parent="."]
